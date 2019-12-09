@@ -8,6 +8,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
+    "format": "prettier --write \"{components,layouts,middleware,pages,plugins,static,store}/**/*.{js,ts,tsx,scss,json}\"",
     "generate": "nuxt generate"
   },
   "dependencies": {
