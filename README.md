@@ -2,6 +2,8 @@
 
 > Nuxt.js with Prismic.io test repo.
 
+[DEMO, deployed on netlify](https://confident-lamarr-bc55c0.netlify.com/).
+
 ## Build Setup
 
 ``` bash
